@@ -1,6 +1,3 @@
-Link for Drive Class Content =  
-    https://docs.google.com/document/d/1W8bWJgyVudSepH1k7NYGgogtoFB1fuqyJdDJwxEfFgg/edit
-
 yarn init = Cria um package.json com as informações da aplicação
 
 yarn add express = instala a dependência do express (um microframeword para trabalhar com node, conseguimos criar um servidor para rodar um servidor entre outros);
